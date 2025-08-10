@@ -8,24 +8,24 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
+  name: Billy Aung Myint
+  tagline: Admin / DevOp
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  email: billy@billyaungmyint.com
+  phone: 
+  timezone: Asia/Singapore # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
+  website: https://billyaungmyint.com/ | https://billyaungmyint.github.io # Include the full website URL, including "http://" or "https://".
+  linkedin: billyaungmyint
   xing: alandoe
-  github: jekyll
+  github: billyaungmyint
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
+  bluesky:  # Specify your full Bluesky handle
+  twitter: 
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -38,38 +38,19 @@ sidebar:
     title: Languages
     info:
     - idiom: English
-      level: Native
-
-    - idiom: French
-      level: Professional
-
-    - idiom: Spanish
       level: Professional
 
   interests:
     title: Interests
     info:
-    - item: Climbing
-      link:
-
-
-    - item: Snowboarding
-      link:
-
-
-    - item: Cooking
+    - item: Reading
       link:
 
 
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    A Singapore-based IT professional with 20+ years of experience in IT , 10 of them in Banking and Finance. Has knowledge in Windows , Linux , Solaris , Oracle DB , SQL Server , Python , R , Bash , Projects , UAT , Change Management , Deployments , Audit , Security.
 education:
   title: Education
   info:
