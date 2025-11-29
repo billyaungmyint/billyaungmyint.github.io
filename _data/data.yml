@@ -95,6 +95,77 @@ education:
       details: |
         Diploma program in Information Technology with specialization in Software Engineering
 
+certifications:
+  title: Certifications
+  list:
+    - name: Oracle Certified Associate (Oracle 11g Administrator Certified Associate)
+      start: June 2016
+      end:
+      organization: Oracle University Singapore
+      credentialid: 1Z0-052
+      credentialurl:
+      credentialname: Oracle
+      details: |
+        Completed Oracle 11g Administrator Certified Associate training @ Oracle University Singapore
+        Passed Oracle11g Administrator Certified Associate certification exam (1Z0-052) with 72%
+    - name: Oracle SQL Expert Certification
+      start: Dec 2013
+      end:
+      organization: Oracle Singapore (NTUC)
+      credentialid: 1Z0-047
+      credentialurl:
+      credentialname: Oracle
+      details: |
+        Completed Oracle SQL Programming @ Oracle University Singapore
+        Passed Oracle SQL Expert certification exam (1Z0-047) with 83%
+    - name: SAS Base Programmer Certificate
+      start: Nov 2013
+      end:
+      organization: SAS Institute Singapore
+      credentialid:
+      credentialurl:
+      credentialname: SAS
+      details: |
+        Completed SAS Programming 1 training
+        Completed SAS Programming 2 training
+        Passed SAS Certified Base Programmer for SAS 9 with 94%
+    - name: VMWare Certified Associate – Data Center Virtualization
+      start: Nov 2013
+      end:
+      organization: Self-Study
+      credentialid:
+      credentialurl:
+      credentialname: VMWare
+      details: |
+        Self-study certification for VMWare data center virtualization
+    - name: 'Data Science: R Basics'
+      start: June 2022
+      end:
+      organization: edX
+      credentialid:
+      credentialurl:
+      credentialname: edX
+      details: |
+        Verified Certificate for Data Science: R Basics
+    - name: Introduction to Computer Science and Programming using Python
+      start: July 2022
+      end:
+      organization: edX
+      credentialid:
+      credentialurl:
+      credentialname: edX
+      details: |
+        Verified Certificate for Introduction to Computer Science and Programming using Python
+    - name: NICF – Statistics Bootcamp Using R and Tableau
+      start: 2014
+      end:
+      organization: NUS-ISS
+      credentialid:
+      credentialurl:
+      credentialname: NUS-ISS
+      details: |
+        Completed Statistics Bootcamp Using R and Tableau certification
+
 experiences:
   title: Experiences
   info:
@@ -175,100 +246,6 @@ experiences:
           - Pre and Post Sales documentations and trainings
           - Providing ad-hoc consultation services for VMWare, Active Directory, Webhosting Solutions
 
-certifications:
-  title: Certifications
-  list:
-    - name: Oracle Certified Associate (Oracle 11g Administrator Certified Associate)
-      start: June 2016
-      end:
-      organization: Oracle University Singapore
-      credentialid: 1Z0-052
-      credentialurl:
-      credentialname: Oracle
-      details: |
-        Completed Oracle 11g Administrator Certified Associate training @ Oracle University Singapore
-        Passed Oracle11g Administrator Certified Associate certification exam (1Z0-052) with 72%
-    - name: Oracle SQL Expert Certification
-      start: Dec 2013
-      end:
-      organization: Oracle Singapore (NTUC)
-      credentialid: 1Z0-047
-      credentialurl:
-      credentialname: Oracle
-      details: |
-        Completed Oracle SQL Programming @ Oracle University Singapore
-        Passed Oracle SQL Expert certification exam (1Z0-047) with 83%
-    - name: SAS Base Programmer Certificate
-      start: Nov 2013
-      end:
-      organization: SAS Institute Singapore
-      credentialid:
-      credentialurl:
-      credentialname: SAS
-      details: |
-        Completed SAS Programming 1 training
-        Completed SAS Programming 2 training
-        Passed SAS Certified Base Programmer for SAS 9 with 94%
-    - name: VMWare Certified Associate – Data Center Virtualization
-      start: Nov 2013
-      end:
-      organization: Self-Study
-      credentialid:
-      credentialurl:
-      credentialname: VMWare
-      details: |
-        Self-study certification for VMWare data center virtualization
-    - name: Specialist Diploma in Data Science (Artificial Intelligence)
-      start: Mar 2024
-      end: Mar 2025
-      organization: Singapore Polytechnic
-      credentialid:
-      credentialurl:
-      credentialname: Singapore Polytechnic
-      details: |
-        - Statistics
-        - Python / Numpy / Pandas
-        - Google Dialogueflow
-    - name: FlexiMasters in Business and Financial Analytics
-      start: Aug 2022
-      end: Feb 2023
-      organization: Nanyang Technological University (NTU)
-      credentialid:
-      credentialurl:
-      credentialname: NTU
-      details: |
-        - Python with Data Analytics / Machine Learning on Google Colab
-        - Tableau
-        - Design Thinking
-        - MongoDB
-    - name: 'Data Science: R Basics'
-      start: June 2022
-      end:
-      organization: edX
-      credentialid:
-      credentialurl:
-      credentialname: edX
-      details: |
-        Verified Certificate for Data Science: R Basics
-    - name: Introduction to Computer Science and Programming using Python
-      start: July 2022
-      end:
-      organization: edX
-      credentialid:
-      credentialurl:
-      credentialname: edX
-      details: |
-        Verified Certificate for Introduction to Computer Science and Programming using Python
-    - name: NICF – Statistics Bootcamp Using R and Tableau
-      start: 2014
-      end:
-      organization: NUS-ISS
-      credentialid:
-      credentialurl:
-      credentialname: NUS-ISS
-      details: |
-        Completed Statistics Bootcamp Using R and Tableau certification
-
 projects:
   title: Projects
   intro: >
@@ -333,23 +310,23 @@ publications:
       authors: Edgar T. Irons
       conference: 'Comm. ACM 4 (1961), 51–55'
 
-recommendations:
-  title: Recommendations
-  list:
-    - person: Yareli Perez
-      email: perezyareli@example.com
-      phone: 012 345 6789
-      role: General Director at example.com
-      recommendation: |
-        Alan Doe is a super employee!
-    - person: Lara Henderson
-      email: larah@example.com
-      phone: 012 345 6789
-      role: General Director at example.com
-      recommendation: |
-        I would like to work with Alan Doe again!
-
-        He is a great employee!
+# recommendations:
+#   title: Recommendations
+#   list:
+#     - person: Yareli Perez
+#       email: perezyareli@example.com
+#       phone: 012 345 6789
+#       role: General Director at example.com
+#       recommendation: |
+#         Alan Doe is a super employee!
+#     - person: Lara Henderson
+#       email: larah@example.com
+#       phone: 012 345 6789
+#       role: General Director at example.com
+#       recommendation: |
+#         I would like to work with Alan Doe again!
+#
+#         He is a great employee!
 
 skills:
   title: Skills &amp; Proficiency
