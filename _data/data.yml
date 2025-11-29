@@ -9,12 +9,12 @@ sidebar:
 
   # Profile information
   name: Billy Aung Myint
-  tagline: Admin / DevOp
+  tagline: IT Systems Administrator / Data Analyst
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: billy@billyaungmyint.com
-  phone: 
+  phone:
   timezone: Asia/Singapore # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
   website: https://billyaungmyint.github.io # Include the full website URL, including "http://" or "https://".
@@ -24,182 +24,292 @@ sidebar:
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  bluesky:  # Specify your full Bluesky handle
-  twitter: 
+  bluesky: # Specify your full Bluesky handle
+  twitter:
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
   mastodon: # Please include your full Mastodon link here.
   hackerrank: # Please provide your HackerRank username.
   leetcode: # Please provide your LeetCode username.
-  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+  pdf: resume/Billy%20Aung%20Myint%20Resume%20-%20System_Data_Admin_Analyst_updated.pdf
 
   languages:
     title: Languages
     info:
-    - idiom: English
-      level: Professional
+      - idiom: English
+        level: Professional
 
   interests:
     title: Interests
     info:
-    - item: Reading
-      link:
-
+      - item: Reading
+        link:
 
 career-profile:
   title: Career Profile
   summary: |
-    A Singapore-based IT professional with 20+ years of experience in IT , 10 of them in Banking and Finance. Has knowledge in Windows , Linux , Solaris , Oracle DB , SQL Server , Python , R , Bash , Projects , UAT , Change Management , Deployments , Audit , Security.
+    Highly Motivated Singapore Permanent Resident with 19+ years of experience in IT with 9+ years in Banking environment,
+    Project and Data Management with Oracle DB, Microsoft SQL Server Data warehouse, Windows, Linux, BASH,
+    Python Scripting experience with a proven track record of consistent contributions to increase production, quality,
+    cost effectiveness and management capability. An Effective Communicator and team builder skilled in cross-functional
+    team collaboration with all operating departments. Key player in strategic planning, top achiever with an outstanding
+    commitment. A self-starter known as a people person and strong team player who thrives on challenges and developing
+    sound business solutions to problems through initiative, knowledge, and ensuring the achievement of specific goals.
+    Delivered performance improvement through cost reduction, production, efficiency and company culture of continuous
+    improvements.
+
+    Has also authored a book on Oracle Database Management and published on Amazon -
+    https://www.amazon.com/dp/B078QPMYH3
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+    - degree: Specialist Diploma in Data Science (Artificial Intelligence)
+      university: Singapore Polytechnic
+      time: 2024 - 2025
+      details: |
+        - Statistics
+        - Python / Numpy / Pandas
+        - Google Dialogueflow
+    - degree: FlexiMasters in Business and Financial Analytics
+      university: Nanyang Technological University (NTU)
+      time: 2022 - 2023
+      details: |
+        - Python with Data Analytics / Machine Learning on Google Colab
+        - Tableau
+        - Design Thinking
+        - MongoDB
+    - degree: Python for Analytics
+      university: National University of Singapore
+      time: 2021 - 2022
+      details: |
+        Professional certificate in Python programming for data analytics
+    - degree: Bachelor in IT (Major in Software Dev & SQL)
+      university: University of Newcastle (PSB)
+      time: 2011 - 2013
+      details: |
+        Part-time degree program focusing on software development and SQL
+    - degree: Diploma In Information Technology (Software Engineering)
+      university: Ngee Ann Polytechnic
+      time: 2002 - 2005
+      details: |
+        Diploma program in Information Technology with specialization in Software Engineering
 
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+    - role: IT Systems Administrator
+      time: Dec 2023 - Present
+      company: BW Epic Kosan
+      details: |
+        BW Epic Kosan is the world's leading owner and operator of modern high-quality fully pressurised, semi-refrigerated as
+        well as ethylene and ammonia capable vessels which provide maritime transportation of liquified petroleum gas (LPG),
+        petrochemicals and other speciality gases.
+
+        Main Responsibilities:
+          - End user support
+          - Vessel PMS and Safety related applications
+          - Crew Management Systems
+          - Accounting and Finance Systems (ShipNet One, Oracle Netsuite, EyeShare, Prophix etc.)
+          - Email communication systems (Exchange Online)
+          - Commercial and Operations related systems (IMOS, Diabos)
+          - Microsoft PowerBI
+          - Microsoft AD
+          - IT helpdesk systems
+          - Microsoft SQL Database management
+          - Microsoft Azure
+          - Microsoft 365
+          - Information Security systems (endpoint security, DNS security, MFA etc.)
+          - Standards for Workstations and networks for all BWEK locations
+          - Printers and peripherals
+          - Communication systems (data networks, landline/cell phones, and satellite communication (ships))
+          - Meeting room systems
+          - Vendor Management
+    - role: Assistant Manager
+      time: Feb 2014 - Dec 2023
+      company: Sing Investments & Finance Ltd
+      details: |
+        Sing Investments & Finance Limited is a finance company listed on the Singapore Stock Exchange with more than 40
+        years of lending experience in the financing arena.
+
+        Projects:
+          - Setup and Documented internal Loan Application Website consisting of Oracle Database and Weblogic
+          - Setup and Documented internal Document Management system based on JBOSS
+          - Setup Core Banking System consisting of Oracle Database and Weblogic
+          - Developed a Python program to extract location from IP address
+          - Developed Windows and Shell scripts to transfer files across the servers using Task Scheduler and Cron
+          - Applied latest patches on Windows/Linux systems using internal repository
+          - Web automation using selenium webdriver using Python
+
+        Main Responsibilities:
+          - General Server Administration (Backup/Restore/Configuration/Security/Vulnerability Analysis)
+          - Oracle 11gR2 / 12cR1 Installation and Administration
+          - MS SQL Server Data warehouse Administration
+          - Active Directory (Users and Security Administration)
+          - VMWare vSphere Server Administration
+          - Oracle WebLogic Server Installation and Administration
+          - Apache Tomcat Administration
+          - JBOSS server Administration
+          - Apache web server Installation, Setup and Administration
+          - IIS Administration
+          - Automation of tasks using Windows command line / Bash shell scripting
+          - Assist in ongoing Project Management
+          - SQL Data warehouse Development (ETL Operations)
+          - Infosys's Finacle Setup/Administration and EOD Processing
+    - role: Solutions Consultant
+      time: Oct 2012 - Feb 2014
+      company: Alpsoft Technologies Pte Ltd
+      details: |
+        Alpsoft Technologies is a local System Integrator (SI) and software reseller company since 2002 and has served many
+        SMEs and MNCs in Singapore.
+
+        Responsibilities:
+          - Administration and Maintenance of company IT Infrastructure
+          - MailEnable Email Server, Sharepoint Server, Web Applications Server, DNS Server
+          - Fortigate Firewall, APC UPS, Cisco/Intel Switches, Cisco Router
+          - Linux and Solaris Servers
+          - Cloud server hosted at Singtel Alatum Datacenter
+          - Providing consultation services to existing customers of Atempo Backup software
+          - Training (for both End Users and Administrators)
+          - Configuration and Maintenance of Software
+          - Pre and Post Sales documentations and trainings
+          - Providing ad-hoc consultation services for VMWare, Active Directory, Webhosting Solutions
 
 certifications:
   title: Certifications
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
-    details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
-    end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
-    details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+    - name: Oracle Certified Associate (Oracle 11g Administrator Certified Associate)
+      start: June 2016
+      end:
+      organization: Oracle University Singapore
+      credentialid: 1Z0-052
+      credentialurl:
+      credentialname: Oracle
+      details: |
+        Completed Oracle 11g Administrator Certified Associate training @ Oracle University Singapore
+        Passed Oracle11g Administrator Certified Associate certification exam (1Z0-052) with 72%
+    - name: Oracle SQL Expert Certification
+      start: Dec 2013
+      end:
+      organization: Oracle Singapore (NTUC)
+      credentialid: 1Z0-047
+      credentialurl:
+      credentialname: Oracle
+      details: |
+        Completed Oracle SQL Programming @ Oracle University Singapore
+        Passed Oracle SQL Expert certification exam (1Z0-047) with 83%
+    - name: SAS Base Programmer Certificate
+      start: Nov 2013
+      end:
+      organization: SAS Institute Singapore
+      credentialid:
+      credentialurl:
+      credentialname: SAS
+      details: |
+        Completed SAS Programming 1 training
+        Completed SAS Programming 2 training
+        Passed SAS Certified Base Programmer for SAS 9 with 94%
+    - name: VMWare Certified Associate – Data Center Virtualization
+      start: Nov 2013
+      end:
+      organization: Self-Study
+      credentialid:
+      credentialurl:
+      credentialname: VMWare
+      details: |
+        Self-study certification for VMWare data center virtualization
+    - name: Specialist Diploma in Data Science (Artificial Intelligence)
+      start: Mar 2024
+      end: Mar 2025
+      organization: Singapore Polytechnic
+      credentialid:
+      credentialurl:
+      credentialname: Singapore Polytechnic
+      details: |
+        - Statistics
+        - Python / Numpy / Pandas
+        - Google Dialogueflow
+    - name: FlexiMasters in Business and Financial Analytics
+      start: Aug 2022
+      end: Feb 2023
+      organization: Nanyang Technological University (NTU)
+      credentialid:
+      credentialurl:
+      credentialname: NTU
+      details: |
+        - Python with Data Analytics / Machine Learning on Google Colab
+        - Tableau
+        - Design Thinking
+        - MongoDB
+    - name: 'Data Science: R Basics'
+      start: June 2022
+      end:
+      organization: edX
+      credentialid:
+      credentialurl:
+      credentialname: edX
+      details: |
+        Verified Certificate for Data Science: R Basics
+    - name: Introduction to Computer Science and Programming using Python
+      start: July 2022
+      end:
+      organization: edX
+      credentialid:
+      credentialurl:
+      credentialname: edX
+      details: |
+        Verified Certificate for Introduction to Computer Science and Programming using Python
+    - name: NICF – Statistics Bootcamp Using R and Tableau
+      start: 2014
+      end:
+      organization: NUS-ISS
+      credentialid:
+      credentialurl:
+      credentialname: NUS-ISS
+      details: |
+        Completed Statistics Bootcamp Using R and Tableau certification
 
 projects:
   title: Projects
   intro: >
     You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    - title: Velocity
+      link: '#hook'
+      tagline: 'A responsive website template designed to help startups promote, market and sell their products.'
 
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    - title: DevStudio
+      link: '#'
+      tagline: 'A responsive website template designed to help web developers/designers market their services.'
 
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    - title: Tempo
+      link: '#'
+      tagline: 'A responsive website template designed to help startups promote their products or services and to attract users &amp; investors'
 
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    - title: Atom
+      link: '#'
+      tagline: 'A comprehensive website template solution for startups/developers to market their mobile apps.'
 
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    - title: Delta
+      link: '#'
+      tagline: 'A responsive Bootstrap one page theme designed to help app developers promote their mobile apps'
 
 oss:
   title: OSS Contributions
   intro: >
     You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    - title: Tempo
+      link: '#'
+      tagline: 'A responsive website template designed to help startups promote their products or services and to attract users &amp; investors'
 
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    - title: Atom
+      link: '#'
+      tagline: 'A comprehensive website template solution for startups/developers to market their mobile apps.'
 
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    - title: Delta
+      link: '#'
+      tagline: 'A responsive Bootstrap one page theme designed to help app developers promote their mobile apps'
 
 publications:
   title: Publications
@@ -208,60 +318,72 @@ publications:
     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
     bibendum fringilla a eu lectus.
   papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+    - title: The Art of Computer Programming
+      link: '#'
+      authors: Donald E. Knuth
+      conference: Addison-Wesley, 1968
 
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+    - title: 'Genetic Programming III: Darwinian Invention &amp; Problem Solving'
+      link: '#'
+      authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+      conference: 'Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)'
 
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+    - title: A syntax directed compiler for Algol 60
+      link: '#'
+      authors: Edgar T. Irons
+      conference: 'Comm. ACM 4 (1961), 51–55'
 
 recommendations:
   title: Recommendations
   list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
+    - person: Yareli Perez
+      email: perezyareli@example.com
+      phone: 012 345 6789
+      role: General Director at example.com
+      recommendation: |
+        Alan Doe is a super employee!
+    - person: Lara Henderson
+      email: larah@example.com
+      phone: 012 345 6789
+      role: General Director at example.com
+      recommendation: |
+        I would like to work with Alan Doe again!
 
-      He is a great employee!
+        He is a great employee!
 
 skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
-    level: 98%
+    - name: Python Programming
+      level: 95%
 
-  - name: Javascript & jQuery
-    level: 98%
+    - name: Oracle DBA (11gR2 / 12cR1)
+      level: 90%
 
-  - name: Angular
-    level: 98%
+    - name: MS SQL Data Warehouse
+      level: 85%
 
-  - name: HTML5 & CSS
-    level: 95%
+    - name: Windows / Linux / Solaris Administration
+      level: 90%
 
-  - name: Ruby on Rails
-    level: 85%
+    - name: Oracle WebLogic Administration
+      level: 85%
 
-  - name: Sketch & Photoshop
-    level: 60%
+    - name: Apache Tomcat / JBOSS Administration
+      level: 80%
+
+    - name: BASH Scripting
+      level: 85%
+
+    - name: Automation using Selenium Webdriver
+      level: 80%
+
+    - name: Project Change Management
+      level: 85%
+
+    - name: Atera
+      level: 75%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
