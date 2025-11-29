@@ -17,10 +17,10 @@ sidebar:
   phone:
   timezone: Asia/Singapore # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
-  website: https://billyaungmyint.github.io # Include the full website URL, including "http://" or "https://".
-  linkedin: https://www.linkedin.com/in/billyaungmyint/
+  website: https://billyaungmyint.com #Include the full website URL, including "http://" or "https://".
+  linkedin: billyaungmyint
   xing:
-  github: https://github.com/billyaungmyint
+  github: billyaungmyint
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
