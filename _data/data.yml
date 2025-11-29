@@ -61,6 +61,7 @@ career-profile:
 
     Has also authored a book on Oracle Database Management and published on Amazon -
     https://www.amazon.com/dp/B078QPMYH3
+
 education:
   title: Education
   info:
@@ -94,77 +95,6 @@ education:
       time: 2002 - 2005
       details: |
         Diploma program in Information Technology with specialization in Software Engineering
-
-certifications:
-  title: Certifications
-  list:
-    - name: Oracle Certified Associate (Oracle 11g Administrator Certified Associate)
-      start: June 2016
-      end:
-      organization: Oracle University Singapore
-      credentialid: 1Z0-052
-      credentialurl:
-      credentialname: Oracle
-      details: |
-        Completed Oracle 11g Administrator Certified Associate training @ Oracle University Singapore
-        Passed Oracle11g Administrator Certified Associate certification exam (1Z0-052) with 72%
-    - name: Oracle SQL Expert Certification
-      start: Dec 2013
-      end:
-      organization: Oracle Singapore (NTUC)
-      credentialid: 1Z0-047
-      credentialurl:
-      credentialname: Oracle
-      details: |
-        Completed Oracle SQL Programming @ Oracle University Singapore
-        Passed Oracle SQL Expert certification exam (1Z0-047) with 83%
-    - name: SAS Base Programmer Certificate
-      start: Nov 2013
-      end:
-      organization: SAS Institute Singapore
-      credentialid:
-      credentialurl:
-      credentialname: SAS
-      details: |
-        Completed SAS Programming 1 training
-        Completed SAS Programming 2 training
-        Passed SAS Certified Base Programmer for SAS 9 with 94%
-    - name: VMWare Certified Associate – Data Center Virtualization
-      start: Nov 2013
-      end:
-      organization: Self-Study
-      credentialid:
-      credentialurl:
-      credentialname: VMWare
-      details: |
-        Self-study certification for VMWare data center virtualization
-    - name: 'Data Science: R Basics'
-      start: June 2022
-      end:
-      organization: edX
-      credentialid:
-      credentialurl:
-      credentialname: edX
-      details: |
-        Verified Certificate for Data Science: R Basics
-    - name: Introduction to Computer Science and Programming using Python
-      start: July 2022
-      end:
-      organization: edX
-      credentialid:
-      credentialurl:
-      credentialname: edX
-      details: |
-        Verified Certificate for Introduction to Computer Science and Programming using Python
-    - name: NICF – Statistics Bootcamp Using R and Tableau
-      start: 2014
-      end:
-      organization: NUS-ISS
-      credentialid:
-      credentialurl:
-      credentialname: NUS-ISS
-      details: |
-        Completed Statistics Bootcamp Using R and Tableau certification
 
 experiences:
   title: Experiences
@@ -246,6 +176,77 @@ experiences:
           - Pre and Post Sales documentations and trainings
           - Providing ad-hoc consultation services for VMWare, Active Directory, Webhosting Solutions
 
+certifications:
+  title: Certifications
+  list:
+    - name: Oracle Certified Associate (Oracle 11g Administrator Certified Associate)
+      start: June 2016
+      end:
+      organization: Oracle University Singapore
+      credentialid: 1Z0-052
+      credentialurl:
+      credentialname: Oracle
+      details: |
+        Completed Oracle 11g Administrator Certified Associate training @ Oracle University Singapore
+        Passed Oracle11g Administrator Certified Associate certification exam (1Z0-052) with 72%
+    - name: Oracle SQL Expert Certification
+      start: Dec 2013
+      end:
+      organization: Oracle Singapore (NTUC)
+      credentialid: 1Z0-047
+      credentialurl:
+      credentialname: Oracle
+      details: |
+        Completed Oracle SQL Programming @ Oracle University Singapore
+        Passed Oracle SQL Expert certification exam (1Z0-047) with 83%
+    - name: SAS Base Programmer Certificate
+      start: Nov 2013
+      end:
+      organization: SAS Institute Singapore
+      credentialid:
+      credentialurl:
+      credentialname: SAS
+      details: |
+        Completed SAS Programming 1 training
+        Completed SAS Programming 2 training
+        Passed SAS Certified Base Programmer for SAS 9 with 94%
+    - name: VMWare Certified Associate – Data Center Virtualization
+      start: Nov 2013
+      end:
+      organization: Self-Study
+      credentialid:
+      credentialurl:
+      credentialname: VMWare
+      details: |
+        Self-study certification for VMWare data center virtualization
+    - name: 'Data Science: R Basics'
+      start: June 2022
+      end:
+      organization: edX
+      credentialid:
+      credentialurl:
+      credentialname: edX
+      details: |
+        Verified Certificate for Data Science: R Basics
+    - name: Introduction to Computer Science and Programming using Python
+      start: July 2022
+      end:
+      organization: edX
+      credentialid:
+      credentialurl:
+      credentialname: edX
+      details: |
+        Verified Certificate for Introduction to Computer Science and Programming using Python
+    - name: NICF – Statistics Bootcamp Using R and Tableau
+      start: 2014
+      end:
+      organization: NUS-ISS
+      credentialid:
+      credentialurl:
+      credentialname: NUS-ISS
+      details: |
+        Completed Statistics Bootcamp Using R and Tableau certification
+
 projects:
   title: Projects
   intro: >
@@ -261,7 +262,7 @@ projects:
 
     - title: Tempo
       link: '#'
-      tagline: 'A responsive website template designed to help startups promote their products or services and to attract users &amp; investors'
+      tagline: 'A responsive website template designed to help startups promote their products or services and to attract users & investors'
 
     - title: Atom
       link: '#'
@@ -271,44 +272,44 @@ projects:
       link: '#'
       tagline: 'A responsive Bootstrap one page theme designed to help app developers promote their mobile apps'
 
-oss:
-  title: OSS Contributions
-  intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  contributions:
-    - title: Tempo
-      link: '#'
-      tagline: 'A responsive website template designed to help startups promote their products or services and to attract users &amp; investors'
+# oss:
+#   title: OSS Contributions
+#   intro: >
+#     You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#   contributions:
+#     - title: Tempo
+#       link: '#'
+#       tagline: 'A responsive website template designed to help startups promote their products or services and to attract users & investors'
+#
+#     - title: Atom
+#       link: '#'
+#       tagline: 'A comprehensive website template solution for startups/developers to market their mobile apps.'
+#
+#     - title: Delta
+#       link: '#'
+#       tagline: 'A responsive Bootstrap one page theme designed to help app developers promote their mobile apps'
 
-    - title: Atom
-      link: '#'
-      tagline: 'A comprehensive website template solution for startups/developers to market their mobile apps.'
-
-    - title: Delta
-      link: '#'
-      tagline: 'A responsive Bootstrap one page theme designed to help app developers promote their mobile apps'
-
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-    - title: The Art of Computer Programming
-      link: '#'
-      authors: Donald E. Knuth
-      conference: Addison-Wesley, 1968
-
-    - title: 'Genetic Programming III: Darwinian Invention &amp; Problem Solving'
-      link: '#'
-      authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-      conference: 'Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)'
-
-    - title: A syntax directed compiler for Algol 60
-      link: '#'
-      authors: Edgar T. Irons
-      conference: 'Comm. ACM 4 (1961), 51–55'
+# publications:
+#   title: Publications
+#   intro: |
+#     You can list your publications in this section. Lorem ipsum dolor sit
+#     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#     bibendum fringilla a eu lectus.
+#   papers:
+#     - title: The Art of Computer Programming
+#       link: '#'
+#       authors: Donald E. Knuth
+#       conference: Addison-Wesley, 1968
+#
+#     - title: 'Genetic Programming III: Darwinian Invention & Problem Solving'
+#       link: '#'
+#       authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#       conference: 'Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)'
+#
+#     - title: A syntax directed compiler for Algol 60
+#       link: '#'
+#       authors: Edgar T. Irons
+#       conference: 'Comm. ACM 4 (1961), 51–55'
 
 # recommendations:
 #   title: Recommendations
@@ -329,7 +330,7 @@ publications:
 #         He is a great employee!
 
 skills:
-  title: Skills &amp; Proficiency
+  title: Skills & Proficiency
 
   toolset:
     - name: Python Programming
