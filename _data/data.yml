@@ -45,6 +45,10 @@ sidebar:
     info:
       - item: Reading
         link:
+      - item: Programming
+        link:
+      - item: Games
+        link:
 
 career-profile:
   title: Career Profile
@@ -95,6 +99,40 @@ education:
       time: 2002 - 2005
       details: |
         Diploma program in Information Technology with specialization in Software Engineering
+
+skills:
+  title: Skills & Proficiency
+
+  toolset:
+    - name: Python Programming
+      level: 95%
+
+    - name: Oracle DBA (11gR2 / 12cR1)
+      level: 90%
+
+    - name: MS SQL Data Warehouse
+      level: 85%
+
+    - name: Windows / Linux / Solaris Administration
+      level: 90%
+
+    - name: Oracle WebLogic Administration
+      level: 85%
+
+    - name: Apache Tomcat / JBOSS Administration
+      level: 80%
+
+    - name: BASH Scripting
+      level: 85%
+
+    - name: Automation using Selenium Webdriver
+      level: 80%
+
+    - name: Project Change Management
+      level: 85%
+
+    - name: Atera
+      level: 75%
 
 experiences:
   title: Experiences
@@ -328,40 +366,6 @@ certifications:
 #         I would like to work with Alan Doe again!
 #
 #         He is a great employee!
-
-skills:
-  title: Skills & Proficiency
-
-  toolset:
-    - name: Python Programming
-      level: 95%
-
-    - name: Oracle DBA (11gR2 / 12cR1)
-      level: 90%
-
-    - name: MS SQL Data Warehouse
-      level: 85%
-
-    - name: Windows / Linux / Solaris Administration
-      level: 90%
-
-    - name: Oracle WebLogic Administration
-      level: 85%
-
-    - name: Apache Tomcat / JBOSS Administration
-      level: 80%
-
-    - name: BASH Scripting
-      level: 85%
-
-    - name: Automation using Selenium Webdriver
-      level: 80%
-
-    - name: Project Change Management
-      level: 85%
-
-    - name: Atera
-      level: 75%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
