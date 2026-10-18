@@ -177,7 +177,7 @@ certifications:
   title: Certifications & Recent Courses
   list:
     - name: AI & Generative AI Courses
-      start: 2025
+      start: 2026
       end:
       organization: Coursera · Singapore Polytechnic
       credentialid:
@@ -191,7 +191,7 @@ certifications:
         - Introduction to GitHub Copilot (Coursera)
         - Discover the Art of Prompting (Coursera)
     - name: Containers & DevOps Courses
-      start: 2025
+      start: 2026
       end:
       organization: Coursera · KodeKloud
       credentialid:
@@ -205,7 +205,7 @@ certifications:
         - Git for Beginners (KodeKloud)
         - Introduction to Python for DevOps (Coursera)
     - name: Python Courses
-      start: 2025
+      start: 2026
       end:
       organization: KodeKloud · Coursera · Udemy
       credentialid:
