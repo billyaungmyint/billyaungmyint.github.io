@@ -9,7 +9,7 @@ sidebar:
 
   # Profile information
   name: Billy Aung Myint
-  tagline: IT Systems Administrator / DevOp
+  tagline: AI-ready Infrastructure Lead
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -17,7 +17,7 @@ sidebar:
   phone:
   timezone: Asia/Singapore # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
-  website: https://billyaungmyint.com #Include the full website URL, including "http://" or "https://".
+  website: https://billyaungmyint.github.io #Include the full website URL, including "http://" or "https://".
   linkedin: billyaungmyint
   xing:
   github: billyaungmyint
@@ -32,7 +32,7 @@ sidebar:
   mastodon: # Please include your full Mastodon link here.
   hackerrank: # Please provide your HackerRank username.
   leetcode: # Please provide your LeetCode username.
-  pdf: resume/Billy%20Aung%20Myint%20Resume%20-%20System_Data_Admin_Analyst_updated.pdf
+  pdf: resume/Billy-Aung-Myint-Resume.pdf
 
   languages:
     title: Languages
@@ -43,28 +43,29 @@ sidebar:
   interests:
     title: Interests
     info:
+      - item: AI Agents & LLMs
+        link:
+      - item: Docker Hub
+        link: https://hub.docker.com/repositories/billyaungmyint
+      - item: Hugging Face
+        link: https://huggingface.co/billyaungmyint
       - item: Reading
-        link:
-      - item: Programming
-        link:
-      - item: Games
         link:
 
 career-profile:
   title: Career Profile
   summary: |
-    Highly Motivated Singapore Permanent Resident with 19+ years of experience in IT with 9+ years in Banking environment,
-    Project and Data Management with Oracle DB, Microsoft SQL Server Data warehouse, Windows, Linux, BASH,
-    Python Scripting experience with a proven track record of consistent contributions to increase production, quality,
-    cost effectiveness and management capability. An Effective Communicator and team builder skilled in cross-functional
-    team collaboration with all operating departments. Key player in strategic planning, top achiever with an outstanding
-    commitment. A self-starter known as a people person and strong team player who thrives on challenges and developing
-    sound business solutions to problems through initiative, knowledge, and ensuring the achievement of specific goals.
-    Delivered performance improvement through cost reduction, production, efficiency and company culture of continuous
-    improvements.
+    Infrastructure lead with 20+ years in IT, including 9+ years in banking & finance and current work in LPG shipping.
+    Combines deep Windows/Linux, Azure/M365 and database administration with a modern AI and DevOps toolkit: building and
+    containerising internal tools with Python, FastAPI and Docker on Linux. Backed by postgraduate training in data science and AI.
 
-    Has also authored a book on Oracle Database Management and published on Amazon -
-    https://www.amazon.com/dp/B078QPMYH3
+    **Current tech stack:** Linux · Python · Docker · FastAPI
+
+    Singapore Permanent Resident ·
+    [LinkedIn](https://www.linkedin.com/in/billyaungmyint/) ·
+    [GitHub](https://github.com/billyaungmyint/) ·
+    [Docker Hub](https://hub.docker.com/repositories/billyaungmyint) ·
+    [Hugging Face](https://huggingface.co/billyaungmyint)
 
 education:
   title: Education
@@ -104,35 +105,32 @@ skills:
   title: Skills & Proficiency
 
   toolset:
-    - name: Python Programming
-      level: 95%
+    - name: Linux / Windows Server Administration
+      level: 90%
+
+    - name: Python
+      level: 85%
+
+    - name: Docker
+      level: 75%
+
+    - name: FastAPI
+      level: 65%
+
+    - name: Microsoft Azure / M365 / Active Directory
+      level: 85%
+
+    - name: MS SQL Server / Data Warehouse
+      level: 85%
 
     - name: Oracle DBA (11gR2 / 12cR1)
-      level: 90%
-
-    - name: MS SQL Data Warehouse
       level: 85%
 
-    - name: Windows / Linux / Solaris Administration
-      level: 90%
-
-    - name: Oracle WebLogic Administration
-      level: 85%
-
-    - name: Apache Tomcat / JBOSS Administration
+    - name: Information Security (Endpoint, DNS, MFA)
       level: 80%
 
-    - name: BASH Scripting
+    - name: Project Change Management / UAT
       level: 85%
-
-    - name: Automation using Selenium Webdriver
-      level: 80%
-
-    - name: Project Change Management
-      level: 85%
-
-    - name: Atera
-      level: 75%
 
 experiences:
   title: Experiences
@@ -141,82 +139,83 @@ experiences:
       time: Dec 2023 - Present
       company: BW Epic Kosan
       details: |
-        BW Epic Kosan is the world's leading owner and operator of modern high-quality fully pressurised, semi-refrigerated as
-        well as ethylene and ammonia capable vessels which provide maritime transportation of liquified petroleum gas (LPG),
-        petrochemicals and other speciality gases.
+        Global owner/operator of LPG, petrochemical & ammonia-capable gas carriers.
 
-        Main Responsibilities:
-          - End user support
-          - Vessel PMS and Safety related applications
-          - Crew Management Systems
-          - Accounting and Finance Systems (ShipNet One, Oracle Netsuite, EyeShare, Prophix etc.)
-          - Email communication systems (Exchange Online)
-          - Commercial and Operations related systems (IMOS, Diabos)
-          - Microsoft PowerBI
-          - Microsoft AD
-          - IT helpdesk systems
-          - Microsoft SQL Database management
-          - Microsoft Azure
-          - Microsoft 365
-          - Information Security systems (endpoint security, DNS security, MFA etc.)
-          - Standards for Workstations and networks for all BWEK locations
-          - Printers and peripherals
-          - Communication systems (data networks, landline/cell phones, and satellite communication (ships))
-          - Meeting room systems
-          - Vendor Management
-    - role: Assistant Manager
+          - Built and containerised an internal audit application (Python, FastAPI, Docker).
+          - Administer Microsoft Azure, M365, Exchange Online, Active Directory and SQL Server for all BWEK offices and vessels.
+          - Support business-critical platforms: ShipNet One, Oracle NetSuite, EyeShare, Prophix, IMOS, Diabos, Power BI, vessel PMS and crew systems.
+          - Run information-security standards (endpoint, DNS security, MFA) across workstations and networks.
+          - Manage communications (data networks, telephony, ship satellite links), meeting-room systems, helpdesk and vendors.
+    - role: Assistant Manager, IT
       time: Feb 2014 - Dec 2023
       company: Sing Investments & Finance Ltd
       details: |
-        Sing Investments & Finance Limited is a finance company listed on the Singapore Stock Exchange with more than 40
-        years of lending experience in the financing arena.
+        SGX-listed finance company with 40+ years of lending experience.
 
-        Projects:
-          - Setup and Documented internal Loan Application Website consisting of Oracle Database and Weblogic
-          - Setup and Documented internal Document Management system based on JBOSS
-          - Setup Core Banking System consisting of Oracle Database and Weblogic
-          - Developed a Python program to extract location from IP address
-          - Developed Windows and Shell scripts to transfer files across the servers using Task Scheduler and Cron
-          - Applied latest patches on Windows/Linux systems using internal repository
-          - Web automation using selenium webdriver using Python
-
-        Main Responsibilities:
-          - General Server Administration (Backup/Restore/Configuration/Security/Vulnerability Analysis)
-          - Oracle 11gR2 / 12cR1 Installation and Administration
-          - MS SQL Server Data warehouse Administration
-          - Active Directory (Users and Security Administration)
-          - VMWare vSphere Server Administration
-          - Oracle WebLogic Server Installation and Administration
-          - Apache Tomcat Administration
-          - JBOSS server Administration
-          - Apache web server Installation, Setup and Administration
-          - IIS Administration
-          - Automation of tasks using Windows command line / Bash shell scripting
-          - Assist in ongoing Project Management
-          - SQL Data warehouse Development (ETL Operations)
-          - Infosys's Finacle Setup/Administration and EOD Processing
+          - Led setup of Infosys Finacle core banking (Solaris, WebLogic, Oracle 12c), replacing AS400/FIMIS; owned EOD processing and user audit.
+          - Built and documented loan-application site (Oracle/WebLogic) and JBoss document-management system.
+          - Administered Oracle (RMAN backup/restore, security), SQL Server data warehouse & ETL, SAP BusinessObjects universe.
+          - Managed VMware, AD, IIS, Apache, Tomcat; patching and vulnerability analysis on Windows/Linux.
+          - Automated file transfers, reports and web tasks with Python, Selenium, Bash, Cron and Task Scheduler.
+          - Drove UAT, test cases, SVN-based change management and end-user training.
     - role: Solutions Consultant
       time: Oct 2012 - Feb 2014
       company: Alpsoft Technologies Pte Ltd
       details: |
-        Alpsoft Technologies is a local System Integrator (SI) and software reseller company since 2002 and has served many
-        SMEs and MNCs in Singapore.
+        Systems integrator & software reseller.
 
-        Responsibilities:
-          - Administration and Maintenance of company IT Infrastructure
-          - MailEnable Email Server, Sharepoint Server, Web Applications Server, DNS Server
-          - Fortigate Firewall, APC UPS, Cisco/Intel Switches, Cisco Router
-          - Linux and Solaris Servers
-          - Cloud server hosted at Singtel Alatum Datacenter
-          - Providing consultation services to existing customers of Atempo Backup software
-          - Training (for both End Users and Administrators)
-          - Configuration and Maintenance of Software
-          - Pre and Post Sales documentations and trainings
-          - Providing ad-hoc consultation services for VMWare, Active Directory, Webhosting Solutions
+          - Consulted and trained clients on Atempo backup, VMware and Active Directory; pre/post-sales documentation.
+          - Ran company infrastructure: firewall, switches/routers, mail, SharePoint, Linux/Solaris and cloud servers.
+          - Planned and executed office and data-centre server relocations with Singtel.
+    - role: MIS Officer
+      time: Apr 2011 - Oct 2012
+      company: Amtek Precision Engineering Pte Ltd
+      details: |
+        Supported hardware, Windows, MS Office, SAP client and AutoCAD for the Singapore office.
 
 certifications:
-  title: Certifications
+  title: Certifications & Recent Courses
   list:
+    - name: AI & Generative AI Courses
+      start: 2025
+      end:
+      organization: Coursera · Singapore Polytechnic
+      credentialid:
+      credentialurl:
+      credentialname: Courses
+      details: |
+        - AI Agents and Agentic AI with Python & Generative AI (Coursera)
+        - AI Agents: Complete Beginner's Guide (Coursera)
+        - Applied Generative AI Skills for Finance Teams (Singapore Polytechnic)
+        - Google AI Essentials (Coursera)
+        - Introduction to GitHub Copilot (Coursera)
+        - Discover the Art of Prompting (Coursera)
+    - name: Containers & DevOps Courses
+      start: 2025
+      end:
+      organization: Coursera · KodeKloud
+      credentialid:
+      credentialurl:
+      credentialname: Courses
+      details: |
+        - Docker for AI/ML (Coursera)
+        - Docker Fundamentals: Understanding Containers and Images (Coursera)
+        - Docker for Beginners with Hands-on Labs (KodeKloud)
+        - Kubernetes for the Absolute Beginners with Hands-on Labs (KodeKloud)
+        - Git for Beginners (KodeKloud)
+        - Introduction to Python for DevOps (Coursera)
+    - name: Python Courses
+      start: 2025
+      end:
+      organization: KodeKloud · Coursera · Udemy
+      credentialid:
+      credentialurl:
+      credentialname: Courses
+      details: |
+        - PCAP - Python Certification Course (KodeKloud)
+        - Python Basics (KodeKloud)
+        - Crash Course on Python (Coursera)
+        - Object Oriented Programming (OOP) with Python for Beginners (Udemy)
     - name: Oracle Certified Associate (Oracle 11g Administrator Certified Associate)
       start: June 2016
       end:
@@ -225,8 +224,7 @@ certifications:
       credentialurl:
       credentialname: Oracle
       details: |
-        Completed Oracle 11g Administrator Certified Associate training @ Oracle University Singapore
-        Passed Oracle11g Administrator Certified Associate certification exam (1Z0-052) with 72%
+        Passed Oracle 11g Administrator Certified Associate certification exam (1Z0-052)
     - name: Oracle SQL Expert Certification
       start: Dec 2013
       end:
@@ -235,8 +233,7 @@ certifications:
       credentialurl:
       credentialname: Oracle
       details: |
-        Completed Oracle SQL Programming @ Oracle University Singapore
-        Passed Oracle SQL Expert certification exam (1Z0-047) with 83%
+        Passed Oracle SQL Expert certification exam (1Z0-047)
     - name: SAS Base Programmer Certificate
       start: Nov 2013
       end:
@@ -245,9 +242,7 @@ certifications:
       credentialurl:
       credentialname: SAS
       details: |
-        Completed SAS Programming 1 training
-        Completed SAS Programming 2 training
-        Passed SAS Certified Base Programmer for SAS 9 with 94%
+        Passed SAS Certified Base Programmer for SAS 9
     - name: VMWare Certified Associate – Data Center Virtualization
       start: Nov 2013
       end:
@@ -257,115 +252,24 @@ certifications:
       credentialname: VMWare
       details: |
         Self-study certification for VMWare data center virtualization
-    - name: 'Data Science: R Basics'
-      start: June 2022
+    - name: MCSA · CCNA · CCENT · LPIC-1 · CompTIA Security+ / Network+ / A+
+      start: 2010 - 2011
       end:
-      organization: edX
+      organization: NTUC Learning Hub / Self-Study
       credentialid:
-      credentialurl:
-      credentialname: edX
+      credentialurl: https://www.linkedin.com/in/billyaungmyint/
+      credentialname: LinkedIn
       details: |
-        Verified Certificate for Data Science: R Basics
-    - name: Introduction to Computer Science and Programming using Python
-      start: July 2022
-      end:
-      organization: edX
-      credentialid:
-      credentialurl:
-      credentialname: edX
-      details: |
-        Verified Certificate for Introduction to Computer Science and Programming using Python
-    - name: NICF – Statistics Bootcamp Using R and Tableau
-      start: 2014
-      end:
-      organization: NUS-ISS
-      credentialid:
-      credentialurl:
-      credentialname: NUS-ISS
-      details: |
-        Completed Statistics Bootcamp Using R and Tableau certification
+        Full list of certificates on [LinkedIn](https://www.linkedin.com/in/billyaungmyint/)
 
 # projects:
 #   title: Projects
 #   intro: >
-#     You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     You can list your side projects in this section.
 #   assignments:
-#     - title: Velocity
-#       link: '#hook'
-#       tagline: 'A responsive website template designed to help startups promote, market and sell their products.'
-
-#     - title: DevStudio
-#       link: '#'
-#       tagline: 'A responsive website template designed to help web developers/designers market their services.'
-
-#     - title: Tempo
-#       link: '#'
-#       tagline: 'A responsive website template designed to help startups promote their products or services and to attract users & investors'
-
-#     - title: Atom
-#       link: '#'
-#       tagline: 'A comprehensive website template solution for startups/developers to market their mobile apps.'
-
-#     - title: Delta
-#       link: '#'
-#       tagline: 'A responsive Bootstrap one page theme designed to help app developers promote their mobile apps'
-
-# oss:
-#   title: OSS Contributions
-#   intro: >
-#     You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#   contributions:
-#     - title: Tempo
-#       link: '#'
-#       tagline: 'A responsive website template designed to help startups promote their products or services and to attract users & investors'
-#
-#     - title: Atom
-#       link: '#'
-#       tagline: 'A comprehensive website template solution for startups/developers to market their mobile apps.'
-#
-#     - title: Delta
-#       link: '#'
-#       tagline: 'A responsive Bootstrap one page theme designed to help app developers promote their mobile apps'
-
-# publications:
-#   title: Publications
-#   intro: |
-#     You can list your publications in this section. Lorem ipsum dolor sit
-#     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#     bibendum fringilla a eu lectus.
-#   papers:
-#     - title: The Art of Computer Programming
-#       link: '#'
-#       authors: Donald E. Knuth
-#       conference: Addison-Wesley, 1968
-#
-#     - title: 'Genetic Programming III: Darwinian Invention & Problem Solving'
-#       link: '#'
-#       authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#       conference: 'Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)'
-#
-#     - title: A syntax directed compiler for Algol 60
-#       link: '#'
-#       authors: Edgar T. Irons
-#       conference: 'Comm. ACM 4 (1961), 51–55'
-
-# recommendations:
-#   title: Recommendations
-#   list:
-#     - person: Yareli Perez
-#       email: perezyareli@example.com
-#       phone: 012 345 6789
-#       role: General Director at example.com
-#       recommendation: |
-#         Alan Doe is a super employee!
-#     - person: Lara Henderson
-#       email: larah@example.com
-#       phone: 012 345 6789
-#       role: General Director at example.com
-#       recommendation: |
-#         I would like to work with Alan Doe again!
-#
-#         He is a great employee!
+#     - title: Audit Program
+#       link: 'https://github.com/billyaungmyint/'
+#       tagline: 'Internal audit application built with Python, FastAPI and Docker.'
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
